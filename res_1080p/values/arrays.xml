@@ -17,10 +17,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <array name="partner_wallpapers" translatable="false">
-        <item>bright_moon</item>
-        <item>cloudy_sky</item>
-        <item>sunset</item>
-        <item>waterfall</item>
-        <item>white_clouds</item>
+        <item>chilly_night</item>
+        <item>forest_sunset</item>
+        <item>red_forest</item>
+        <item>sunset_mountain</item>
+        <item>waste_land_sunset</item>
     </array>
 </resources>
